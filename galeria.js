@@ -1,8 +1,4 @@
-const images = [
-    'img/AD1.JPG',
-    'img/AD2.JPG',
-    'img/AD4.JPG',
-    'img/AD3.JPG',]
+const images = ['img/AD1.jpg','img/AD2.jpg','img/AD4.jpg','img/AD3.jpg',]
    
 let currentIndex = 0;
 
